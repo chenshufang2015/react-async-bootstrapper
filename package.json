@@ -74,7 +74,7 @@
     "rollup-plugin-uglify": "^4.0.0"
   },
   "dependencies": {
-    "react-tree-walker": "^4.2.0"
+    "react-tree-walker": "doxick/react-tree-walker"
   },
   "jest": {
     "collectCoverageFrom": [
